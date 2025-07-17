@@ -64,36 +64,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://github.com/hubaibp/hubaibp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 What I'm Working On
-
-<div align="center">
-  
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Hubaib"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["Python", "JavaScript", "HTML", "CSS"]
-        self.frameworks = ["Django", "React", "Bootstrap"]
-        self.databases = ["MySQL"]
-        self.current_focus = "Building amazing web applications"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
-
-me = Developer()
-me.say_hi()
-```
-
-</div>
+>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -116,47 +91,3 @@ me.say_hi()
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-```
-
-## Key Improvements Made:
-
-1. **Animated Typing Header**: Added a dynamic typing animation for the greeting
-2. **Modern Tech Stack Icons**: Used `skillicons.dev` for cleaner, more modern icons
-3. **Enhanced GitHub Stats**: Added streak stats and activity graph
-4. **GitHub Trophies**: Showcases achievements and milestones
-5. **Contribution Snake**: Animated snake eating contributions (requires GitHub Action setup)
-6. **Code Block**: Added a creative Python class representation
-7. **Modern Badges**: Replaced icon images with styled badges for social links
-8. **Visual Separators**: Added animated dividers between sections
-9. **Profile Views Counter**: Added visitor counter
-10. **Consistent Theme**: Used Tokyo Night theme throughout for cohesion
-11. **Better Layout**: Improved spacing and organization
-
-## Optional: GitHub Action for Snake Animation
-
-To enable the contribution snake animation, create this GitHub Action:
-
-```yaml:.github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: hubaibp
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
