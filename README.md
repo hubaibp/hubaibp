@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World!+I'm+a+Full+Stack+Developer+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" style="margin-left: 10px;">
-</div>
+
 
 <p align="center">
   <em>"I would like to change the world, but they won't give me the source code."</em>
