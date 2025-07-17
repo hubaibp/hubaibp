@@ -46,9 +46,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubaibp&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubaibp&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hubaibp&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
@@ -84,4 +81,4 @@
   <h3>⭐️ From <a href="https://github.com/hubaibp">hubaibp</a></h3>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/ style="width: 100%;">
+
