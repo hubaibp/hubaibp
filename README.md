@@ -51,6 +51,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubaibp&layout=compact&theme=tokyonight)
 
 ## 📬 Let's Connect!
 
