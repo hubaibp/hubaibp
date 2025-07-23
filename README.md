@@ -55,6 +55,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubaibp)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hubaib_p)
 
+
 </div>
 
 <div align="center">
@@ -63,6 +64,7 @@
 
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/hubaibp">hubaibp</a></h3>
+  - 👨‍💻 All of my projects are available at [hubaib.tech](hubaib.tech)****
 </div>
 
 
