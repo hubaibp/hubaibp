@@ -64,7 +64,7 @@
 
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/hubaibp">hubaibp</a></h3>
-  - 👨‍💻 All of my projects are available at [hubaib.tech](hubaib.tech)****
+  👨‍💻 All of my projects are available at [hubaib.tech](hubaib.tech)
 </div>
 
 
