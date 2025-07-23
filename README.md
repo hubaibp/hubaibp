@@ -54,7 +54,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:27hubaib@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubaibp)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hubaib_p)
-[!(https://img.shields.io/badge/Website-hubaib.tech-0A0A0A?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://hubaib.tech)
+[![website](https://img.shields.io/badge/Website-hubaib.tech-0A0A0A?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://hubaib.tech)
 
 
 
